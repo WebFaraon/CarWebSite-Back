@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CarWebsite.Api.Controller.HealthController",
+    "Method": "Ping",
+    "RelativePath": "api/Health/ping",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
