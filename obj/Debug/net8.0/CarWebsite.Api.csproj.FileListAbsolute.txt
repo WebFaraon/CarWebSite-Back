@@ -33,3 +33,4 @@ C:\Users\admin\Documents\University\TWeb\Projects\CarWebsite\CarWebsite.Api\obj\
 C:\Users\admin\Documents\University\TWeb\Projects\CarWebsite\CarWebsite.Api\obj\Debug\net8.0\CarWebsite.Api.pdb
 C:\Users\admin\Documents\University\TWeb\Projects\CarWebsite\CarWebsite.Api\obj\Debug\net8.0\CarWebsite.Api.genruntimeconfig.cache
 C:\Users\admin\Documents\University\TWeb\Projects\CarWebsite\CarWebsite.Api\obj\Debug\net8.0\ref\CarWebsite.Api.dll
+C:\Users\admin\Documents\University\TWeb\Projects\CarWebsite\CarWebsite.Api\obj\Debug\net8.0\CarWebsite.Api.sourcelink.json
