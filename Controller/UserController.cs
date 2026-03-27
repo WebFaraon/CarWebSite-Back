@@ -34,6 +34,7 @@ namespace CarWebsite.Api.Controller
           {
                user.Id = _nextId++;
                user.CreatedAt = DateTime.Now;
+               user.IsActive = true;
 
                _users.Add(user);
 
@@ -51,6 +52,7 @@ namespace CarWebsite.Api.Controller
 
                existingUser.Username = updatedUser.Username;
                existingUser.Email = updatedUser.Email;
+               existingUser.IsActive = updatedUser.IsActive;
 
                return Ok(existingUser);
           }
